@@ -7,7 +7,4 @@ pipeline {
       }
     }
   }
-  environment {
-    GOROOT = '\'/usr/lib/go\''
-  }
 }
